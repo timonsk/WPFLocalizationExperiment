@@ -1,0 +1,2 @@
+# WPFLocalizationExperiment
+WPFLocalizationExperiment for localization wpf app
